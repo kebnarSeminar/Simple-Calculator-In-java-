@@ -1,3 +1,3 @@
 # Simple-Calculator-In-java with source code
 Image Of This mini Projects
-<p><img src="cal.png" width=300 height=300 alt="Empty image"></p>
+<p><img src="cal.png" width=400 height=300 alt="Empty image"></p>
